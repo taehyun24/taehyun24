@@ -4,6 +4,6 @@ Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/1044909
 --- 
    *I am a developer who is interested in **Android**.*!   :gift: 
    
-   *The main languages is **Java** and **Kotlin***   :pencil2:   
+   *The main languages are **Java** and **Kotlin***   :pencil2:   
    
    *I am a person who **loves development**.*!  :fire:  
