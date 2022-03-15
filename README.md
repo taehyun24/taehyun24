@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=TaeHyun Ahn&fontColor=ffffff&fontAlignY=40&fontSize=100&descAlignY=65&descSize=40&animation=scaleIn&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=TaeHyun Ahn&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&descAlignY=65&descSize=40&animation=scaleIn&rotate=-30)
