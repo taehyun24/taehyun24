@@ -2,7 +2,7 @@
 <br/>
 Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
 --- 
-   *I am a developer who is interested in Android.*!   :gift: 
+   *I am a developer who is interested in **Android**.*!   :gift: 
    
    *The main languages is **Java** and **Kotlin***   :pencil2:   
    
